@@ -14,7 +14,7 @@ sudo pacman -S glew sdl2 sdl2_image glm freetype2 # Arch
 ```
 
 
-# Compiling
+### Compiling
 
 ```
 g++ test.cpp -lglut -lGL -lGLU #add flags per your need
